@@ -1,0 +1,8 @@
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\bin\Debug\DualImaging.exe
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\bin\Debug\DualImaging.pdb
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\ResolveAssemblyReference.cache
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\DualImaging.exe
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\DualImaging.pdb
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\DualImaging.MainForm.resources
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\GenerateResource.read.1.tlog
+Z:\SharpDevelopPortable\Data\SharpDevelop Projects\DualImaging\DualImaging\obj\Debug\GenerateResource.write.1.tlog
